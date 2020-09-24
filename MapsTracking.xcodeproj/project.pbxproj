@@ -107,7 +107,7 @@
 		7904E0C02519A1C5006F6136 /* MapsTracking */ = {
 			isa = PBXGroup;
 			children = (
-				7904E0F12519A660006F6136 /* View */,
+				7904E0F12519A660006F6136 /* Controllers */,
 				7904E0C12519A1C6006F6136 /* AppDelegate.swift */,
 				7904E0C32519A1C6006F6136 /* SceneDelegate.swift */,
 				7904E0C72519A1C6006F6136 /* Main.storyboard */,
@@ -136,7 +136,7 @@
 			path = MapsTrackingUITests;
 			sourceTree = "<group>";
 		};
-		7904E0F12519A660006F6136 /* View */ = {
+		7904E0F12519A660006F6136 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
 				7904E0C52519A1C6006F6136 /* ViewController.swift */,
@@ -145,7 +145,7 @@
 				7904E0F62519B31C006F6136 /* AddNewMarkVC.swift */,
 				7904E0F82519B835006F6136 /* DrowDirectionVC.swift */,
 			);
-			path = View;
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
